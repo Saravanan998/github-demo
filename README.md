@@ -24,3 +24,5 @@ file system.
 ## How To Contribute
 
 A simple demo repository to learn the git workflow
+
+### Copyright
