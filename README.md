@@ -29,4 +29,4 @@ review.
 
 A simple demo repository to learn the git workflow
 
-### Copyright
+### Copyright All Rights reserved
