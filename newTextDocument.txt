@@ -2,3 +2,6 @@
 
 New document added to the git repo
 Adding some dummy text
+
+# Team
+  Jason Taylor     Jason@.git.learning
