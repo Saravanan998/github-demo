@@ -23,6 +23,9 @@ file system.
 
 ## How To Contribute
 
+please fork this repository and then issue pull Request for
+review.
+
 A simple demo repository to learn the git workflow
 
 ### Copyright
