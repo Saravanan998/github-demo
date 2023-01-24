@@ -13,7 +13,8 @@ using a demo project.
 
 As stated above the main purpose is to
 provide simple examples for Git training
-demos. Adding a line for rebashing example.
+demos. Adding a line for rebashing example, then 
+more changes from myfeature branch too.
 
 ## Deployment
 
