@@ -1,7 +1,10 @@
 # Copyright 201Git.Learning 
 
-New document added to the git repo
+New document has been added to the git repo
 Adding some dummy text
 
 # Team
   Jason Taylor     Jason@.git.learning
+  
+I'm not sure what will go here, but I'm sure
+it will be nice.
