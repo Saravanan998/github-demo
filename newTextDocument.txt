@@ -1,6 +1,6 @@
-# Copyright 201Git.Learning 
-
-Adding changes before rebasing conflicts
+# Copyright 201Git.Learning
+ 
+some silly changes from master branch
 
 New document has been added to the git repo
 Adding some dummy text
