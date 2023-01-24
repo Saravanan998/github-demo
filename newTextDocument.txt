@@ -1,8 +1,7 @@
 # Copyright 201Git.Learning
  
-some silly changes from master branch
 Adding changes before rebasing conflicts
-branch bigtrouble
+branch bigtrouble, in a little repo
 
 New document has been added to the git repo
 Adding some dummy text
