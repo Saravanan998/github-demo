@@ -1,6 +1,8 @@
 Test Git Quick start demo
 
-
 # Team
 
 John Williams    john123@gmail.com
+
+
+#CopyRight 2015 Git.Learning, All rights reserved
