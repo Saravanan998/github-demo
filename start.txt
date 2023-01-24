@@ -9,3 +9,5 @@ John Williams    john123@gmail.com
 updating the file for stash example
 
 please leave a review if you like this course!
+
+Adding some text for branch stash example.

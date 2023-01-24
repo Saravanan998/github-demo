@@ -13,7 +13,7 @@ using a demo project.
 
 As stated above the main purpose is to
 provide simple examples for Git training
-demos. Updating for emergency fix after our stash.
+demos. Adding some text for branch stash example.
 
 ## Deployment
 
