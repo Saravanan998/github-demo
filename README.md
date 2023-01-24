@@ -13,7 +13,7 @@ using a demo project.
 
 As stated above the main purpose is to
 provide simple examples for Git training
-demos.
+demos. Adding a line for rebashing example.
 
 ## Deployment
 
