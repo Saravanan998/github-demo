@@ -1,12 +1,14 @@
 # Copyright 201Git.Learning
  
 some silly changes from master branch
+Adding changes before rebasing conflicts
+branch bigtrouble
 
 New document has been added to the git repo
 Adding some dummy text
 
 # Team
-  Jason Taylor     Jason@.git.learning
+  Jason Taylor     Jason@.git.learning @Team-A
   
 Git Learning 2022
 some intersting stuffs goes here
